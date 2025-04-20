@@ -50,3 +50,38 @@ Price vs. Quantity Scatter	What's the optimal price point?
 Country-wise Box Plots	Which markets need localization?
 RFM Segment Histograms	How should we tier our customers?
 
+📈 Business Recommendations
+Inventory Planning:
+
+Increase stock by 30% before December
+
+Discontinue bottom 10% slow-moving SKUs
+
+Marketing:
+
+Target 1-item buyers with bundle discounts
+
+Create loyalty program for top 5% customers
+
+Pricing:
+
+Test 5-7% price increase on top-selling items
+
+Introduce volume discounts for 10+ items
+
+📚 Data Dictionary
+Column	Description	Analysis Relevance
+InvoiceNo	Transaction ID	Identify return transactions
+StockCode	Product ID	Product performance analysis
+Quantity	Items purchased	Demand forecasting
+InvoiceDate	Transaction timestamp	Seasonality analysis
+UnitPrice	Item price (£)	Pricing strategy
+CustomerID	Unique buyer ID	Customer segmentation
+Country	Purchase origin	Geographic expansion
+
+
+
+🤝 Contributors
+    Avantika Rana , Shaily Dhouliyan
+
+For questions, contact: pihu.ddn@gmail.com
