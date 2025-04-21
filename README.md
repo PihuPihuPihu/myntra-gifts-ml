@@ -84,5 +84,7 @@ Country	Purchase origin	Geographic expansion
 🤝 Contributors
     Avantika Rana , Shaily Dhouliyan
 
-For questions, contact: pihu.ddn@gmail.com
+For questions, contact:
+
+pihu.ddn@gmail.com
 dhouliyanshaily541780@gmail.com
